@@ -1,5 +1,5 @@
 # House-Price-Prediction
-This is a house price prediction machine learning project which predicts and compares the following regression algorithms:
+This is a house price prediction machine learning project which is trained on Delhi House price dataset from Kaggle that predicts and compares the following regression algorithms:
 1. Linear Regression
 2. Ridge Regression
 3. Lasso Regression
